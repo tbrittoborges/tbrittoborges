@@ -13,7 +13,3 @@ Hello, I'm Thiago Britto Borges! With over 11 years of experience in bioinformat
 - Tools: Snakemake/Nextflow, Docker/Singularity and HPC (sge / slurm).
 - Vast experience mediating the interfae between multi-disciplinary teams.
 - Fields of Interest: Bioinformatics, Computational Biology, Machine Learning, RNA Splicing, Transcriptomics, Proteomics.
-  
-### My stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=tbrittoborges&count_private=true&show_icons=true&theme=vue)](https://github.com/tbrittoborges/github-readme-stats)
-
