@@ -5,7 +5,7 @@ Experienced Bioinformatician & Machine Learning Scientist | PhD in Bioinformatic
 
 ### Overview:
 
-Hello, I'm Thiago Britto Borges! With over 6 years of experience in bioinformatics and computational biology, I specialize in analyzing clinical and OMICs datasets to uncover insights in disease diagnosis and treatment. My expertise spans from developing computational workflows to integrating machine learning techniques for groundbreaking research. I'm passionate about testing (and understanding), benchmarking and then leveraging state-of-the-art methodologies to contribute to multidisciplinary teams in computational biology.
+Hello, I'm Thiago Britto Borges! With over 11 years of experience in bioinformatics and computational biology, I specialize in analyzing clinical and OMICs datasets to uncover insights in disease diagnosis and treatment. My expertise spans from developing computational workflows to integrating machine learning techniques for groundbreaking research. I'm passionate about testing (and understanding), benchmarking and then leveraging state-of-the-art methodologies to contribute to multidisciplinary teams in computational biology.
 
 ### Skills & Interests:
 
